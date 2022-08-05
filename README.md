@@ -1,13 +1,3 @@
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Rosemary Benny
 
 <a href="https://www.linkedin.com/in/rosemary-benny007/">
@@ -25,6 +15,7 @@
 </a>
 
 <br/>
+</br>
 
 - 👨‍🎓 I'm currently a junior student pursuing B.Tech in Computer Science from [Govt. Engineering College, Thrissur](http://gectcr.ac.in)
 
@@ -41,4 +32,4 @@
 **📈 My GitHub Stats**
 
 <img src="https://github-readme-stats.vercel.app/api?username=Rosemary-benny&show_icons=true&hide_border=true&count_private=true&theme=tokyonight">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ByteCrak07&layout=compact&theme=tokyonight&hide_border=true&show_icons=true&count_private=true">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rosemary-benny&layout=compact&theme=tokyonight&hide_border=true&show_icons=true&count_private=true">
