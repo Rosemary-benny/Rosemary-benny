@@ -19,7 +19,7 @@
 <br/>
 </br>
 
-#### 👩🏻‍🎓 I'm currently a junior student pursuing B.Tech in Computer Science from [Government Engineering College, Thrissur](http://gectcr.ac.in)
+#### 👩🏻‍🎓 I'm currently a senior student pursuing B.Tech in Computer Science from [Government Engineering College, Thrissur](http://gectcr.ac.in)
 
 </br>
 
