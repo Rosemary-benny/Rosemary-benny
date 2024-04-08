@@ -34,8 +34,3 @@
 <code><img height="26" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
 </br>
-
-### **📈 My GitHub Stats**
-
-<img src="https://github-readme-stats.vercel.app/api?username=Rosemary-benny&show_icons=true&hide_border=true&count_private=true&theme=tokyonight">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rosemary-benny&layout=compact&theme=tokyonight&hide_border=true&show_icons=true&count_private=true">
