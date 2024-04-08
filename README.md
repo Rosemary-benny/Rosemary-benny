@@ -17,11 +17,6 @@
 </a>
 
 <br/>
-</br>
-
-#### 👩🏻‍🎓 I'm currently a senior student pursuing B.Tech in Computer Science from [Government Engineering College, Thrissur](http://gectcr.ac.in)
-
-</br>
 
 ### **🔨 Languages and Tools**
 
